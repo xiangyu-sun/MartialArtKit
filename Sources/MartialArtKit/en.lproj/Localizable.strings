@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  Taichi
+
+  Created by 孙翔宇 on 25/02/2020.
+  Copyright © 2020 xiangyu sun. All rights reserved.
+*/
+"Taichi" = "Taichi";
+"Qi Gong" = "Qi Gong";
+"Jing Zhuo" = "Jing Zhuo";
+"Zazen" = "Zazen";
+"Rou Gong" = "Rou Gong";
+"Tao Lu" = "Tao Lu";
+"Martial Arts" = "Martial Arts";
+"Tsuburi" = "Tsuburi";
+"Ukemi" = "Ukemi";
+"Preparation and Recovery" = "Preparation and Recovery";
+"Others" = "Others";
+"Indoor" = "Indoor";
+"Outdoor" = "Outdoor";
+"Unknown" = "Unknown";
+

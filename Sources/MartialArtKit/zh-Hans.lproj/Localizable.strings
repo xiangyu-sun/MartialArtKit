@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  Taichi
+
+  Created by 孙翔宇 on 25/02/2020.
+  Copyright © 2020 xiangyu sun. All rights reserved.
+*/
+"Taichi" = "太极";
+"Qi Gong" = "气功";
+"Jing Zhuo" = "静坐";
+"Zazen" = "禅宗";
+"Rou Gong" = "柔功";
+"Tao Lu" = "套路";
+"Martial Arts" = "武术";
+"Tsuburi" = "剑道";
+"Ukemi" = "Ukemi";
+"Preparation and Recovery" = "热身";
+"Others" = "其他";
+"Indoor" = "室内";
+"Outdoor" = "室外";
+"Unknown" = "未知";
+
